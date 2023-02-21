@@ -1,0 +1,1 @@
+enum enumJenisKelamin { pria, wanita }
